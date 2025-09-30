@@ -1,6 +1,6 @@
 ## Exercise 1
 
-### **Patterns chosen **
+_ Patterns chosen _
 - **Behavioral**: Chain of Responsibility, Observer
 - **Creational**: Factory, Singleton
 - **Structural**: Adapter, Bridge
