@@ -77,3 +77,6 @@ All examples are plain Java (no external build tool). From the repo root:
 
 ### Run Astronaut Scheduler (Exercise 2)
 From the repo root:
+- cd "Exercise 2/AstronautScheduler"
+- javac factory/*.java Observer/*.java Singleton/*.java app/Main.java
+- java Main
